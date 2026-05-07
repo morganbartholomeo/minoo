@@ -48,34 +48,6 @@
       "icon": "ic_home.png",
       "url": "index.html",
       "url_dark": "index.html"
-    },
-    {
-      "name": "About",
-      "type": "assets",
-      "icon": "https://homeapps.urbanhome.id/panduan/smartwatchultra8/newfolder/homepage/ic_home.png",
-      "url": "https://homeapps.urbanhome.id/panduan/smartwatchultra8/newfolder/homepage2.html",
-      "url_dark": "https://homeapps.urbanhome.id/panduan/smartwatchultra8/newfolder/homepage2.html"
-    },
-    {
-      "name": "Conclusion",
-      "type": "assets",
-      "icon": "https://homeapps.urbanhome.id/panduan/smartwatchultra8/newfolder/homepage/ic_home3.png",
-      "url": "https://homeapps.urbanhome.id/panduan/smartwatchultra8/newfolder/homepage3.html",
-      "url_dark": "https://homeapps.urbanhome.id/panduan/smartwatchultra8/newfolder/homepage3.html"
-    },
-    {
-      "name": "Our Contact",
-      "type": "assets",
-      "icon": "https://homeapps.urbanhome.id/panduan/smartwatchultra8/newfolder/homepage/ic_contact.png",
-      "url": "https://homeapps.urbanhome.id/panduan/smartwatchultra8/newfolder/contactus.html",
-      "url_dark": "https://homeapps.urbanhome.id/panduan/smartwatchultra8/newfolder/contactus.html"
-    },
-    {
-      "name": "Privacy Policy",
-      "type": "assets",
-      "icon": "ic_privacy.png",
-      "url": "homepage.html",
-      "url_dark": "homepage.html"
     }
   ],
   "ads": {
