@@ -45,8 +45,8 @@
       "name": "Smart Watch Ultra 8 App Guide",
       "type": "assets",
       "icon": "ic_home.png",
-      "url": "splash.html",
-      "url_dark": "splash.html"
+      "url": "index.html",
+      "url_dark": "index.html"
     }
   ],
   "ads": {
