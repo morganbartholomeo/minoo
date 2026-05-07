@@ -42,7 +42,7 @@
   },
   "menus": [
     {
-      "name": "",
+      "name": "T800 Ultra Smartwatch App Hint",
       "type": "assets",
       "icon": "ic_home.png",
       "url": "index.html",
