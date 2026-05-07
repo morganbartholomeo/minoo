@@ -45,7 +45,7 @@
     {
       "name": "All Guide",
       "type": "assets",
-      "icon": "https://homeapps.urbanhome.id/panduan/smartwatchultra8/newfolder/homepage/ic_home2.png",
+      "icon": "ic_home.png",
       "url": "index.html",
       "url_dark": "index.html"
     },
