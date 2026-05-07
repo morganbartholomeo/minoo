@@ -48,20 +48,6 @@
       "icon": "ic_home.png",
       "url": "index.html",
       "url_dark": "index.html"
-    },
-    {
-      "name": "Contact Us",
-      "type": "assets",
-      "icon": "ic_home.png",
-      "url": "contact.html",
-      "url_dark": "contact.html"
-    },
-    {
-      "name": "Privacy Policy",
-      "type": "assets",
-      "icon": "ic_privacy.png",
-      "url": "privacy-policy.html",
-      "url_dark": "privacy-policy.html"
     }
   ],
   "ads": {
