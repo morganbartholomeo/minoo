@@ -50,10 +50,10 @@
     }
   ],
   "ads": {
-    "ad_status": false,
+    "ad_status": true,
     "main_ads": "admob",
     "backup_ads": "none",
-     "admob_banner_unit_id": "ca-app-pub-0165221522846913/4576568742",
+    "admob_banner_unit_id": "ca-app-pub-0165221522846913/4576568742",
     "admob_interstitial_unit_id": "ca-app-pub-0165221522846913/3678055082",
     "admob_native_unit_id": "ca-app-pub-0165221522846913/9637323731",
     "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/92xxxxx",
